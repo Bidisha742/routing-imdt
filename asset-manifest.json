@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/routing-imdt/static/css/main.38be36b0.css",
+    "main.js": "/routing-imdt/static/js/main.440a9bd4.js",
+    "static/js/787.3a1a1511.chunk.js": "/routing-imdt/static/js/787.3a1a1511.chunk.js",
+    "index.html": "/routing-imdt/index.html",
+    "main.38be36b0.css.map": "/routing-imdt/static/css/main.38be36b0.css.map",
+    "main.440a9bd4.js.map": "/routing-imdt/static/js/main.440a9bd4.js.map",
+    "787.3a1a1511.chunk.js.map": "/routing-imdt/static/js/787.3a1a1511.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.38be36b0.css",
+    "static/js/main.440a9bd4.js"
+  ]
+}
